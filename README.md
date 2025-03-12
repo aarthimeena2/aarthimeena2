@@ -1,16 +1,14 @@
-### My Great Heading {#About Me}
+### ABOUT ME
 Results-driven Product Analytics Manager with 7+ years of experience in product analytics, business analysis, and project management across technology, e-commerce, and education sectors. Passionate about data-driven decision-making, optimizing user experience, and enhancing operational efficiency.
 
-![image](https://github.com/user-attachments/assets/cd5ad38a-e7f0-4965-b577-fbeaf75cd2dc)
- ### My Great Heading {Key Expertise}
-✔ Product & Business Analytics 📊
+![image](https://github.com/user-attachments/assets/cd5ad38a-e7f0-4965-b577-fbeaf75cd2dc) **### Key Expertise**
+ ✔ Product & Business Analytics 📊
 ✔ Data-Driven Product Strategy 📈
 ✔ Cross-Functional Collaboration 🤝
 ✔ Process Optimization ⚡
 ✔ A/B Testing & Experimentation 🔬
 
-🛠️ 
-### My Great Heading {Tools and Technologies}
+🛠️ ### **Tools and Technologies**
 📌 Product Management & Analytics
 Product Analytics: Google Analytics, SQL, A/B Testing, User Behavior Analysis
 Product Management: Jira, Confluence, Roadmapping, UX/UI Collaboration
